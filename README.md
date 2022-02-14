@@ -1,5 +1,5 @@
-# feb-14-ass1
-Assigment-1
+# feb-14-ass-2
+Assigment-2
 n=int(input("Enter a number:"))
 sum=0
 while(n>0):
