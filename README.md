@@ -9,6 +9,6 @@ while(n>0):
 print("The sum of digits is:",sum)
 
 OUTPUT:
-enter a number:123
-the sum of digitd is:6
+enter a number:1234
+the sum of digitd is:10
 
